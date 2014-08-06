@@ -1,0 +1,36 @@
+.list
+{
+	display: inline;
+	clear: both;
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	width: 100%;
+}
+.list a
+{
+	padding: 0 5px 5px 5px;
+	text-decoration: none;
+    /*default text color*/
+	color: black;
+	font-size: 13px;
+}
+.auto
+{
+	display: inline;
+	clear: both;
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	width: 100%;
+    /*selected row bg color*/ 
+	background:#57D6FB;
+}
+.auto a
+{
+	padding: 0 5px 5px 5px;
+	text-decoration: none;
+    /*selected row text color*/ 
+	color: white;
+	font-size: 13px;
+}
