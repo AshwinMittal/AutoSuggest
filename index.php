@@ -7,7 +7,7 @@ include_once 'includes/connect.php';
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>My Auto-Suggest</title>
-    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/getState.js"></script>
     <link media="all" rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
