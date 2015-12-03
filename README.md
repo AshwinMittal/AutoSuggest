@@ -9,7 +9,7 @@ Here I am making use Country-State example where after selecting the Country fro
 
 
 --CSS--
-If you want to change the text & Background colors, you would need changes in css/style.ccs & includes/conect.php
+If you want to change the text & Background colors, you would need to make changes in css/style.ccs & includes/conect.php
 
 
 Play around
